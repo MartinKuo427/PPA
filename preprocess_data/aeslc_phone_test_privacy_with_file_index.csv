@@ -1,0 +1,185 @@
+,NAME,CATEGORY,PHONE,PHONE_FILE_INDEX
+0,Kevin Presto,PERSON,['713-584-2067'],[11]
+1,T Jae Black,PERSON,['3-5800'],[11]
+2,Louise,PERSON,"['(713) 853-6401', '(713-302-4187']","[17, 1096]"
+3,Linda Guinn,PERSON,['(713) 345-7942'],[17]
+4,Lance Schuler,PERSON,['(713/853-5419'],[20]
+5,Robert Eickenroht,PERSON,['(713/853-3155'],[20]
+6,Mark Haedicke,PERSON,"['(713/853-6544', '6, 7 or 8']","[20, 1325]"
+7,Rob Walls,PERSON,['713/646-6017'],[20]
+8,Harry Grubbs,PERSON,['713-853-5417'],[32]
+9,Fariba Karimi,PERSON,['5-2510'],[55]
+10,Brent Price,PERSON,"['(713-417-1951', 'x37647']","[76, 76]"
+11,Patti Thompson,PERSON,['x39106'],[89]
+12,Teresa Mandola,PERSON,"['x39673', 'x39807', '39807']","[111, 111, 215]"
+13,Jennifer McQuade,PERSON,['x53614'],[111]
+14,Adam Johnson,PERSON,['x54877'],[114]
+15,Kelly Johnson,PERSON,['36485'],[118]
+16,Donna Wackerle,PERSON,"['39755', '31939']","[7, 145]"
+17,Donna Lowry,PERSON,['31939'],[6]
+18,Cassandra Alston,PERSON,['3-9283'],[0]
+19,David Grant,PERSON,['3-6239'],[131]
+20,Julie Pechersky,PERSON,['713 853-9225'],[134]
+21,Leff,PERSON,"['344,114,803']",[154]
+22,Shona Wilson,PERSON,"['x39123', 'x33102']","[160, 160]"
+23,David Port,PERSON,['x39823'],[160]
+24,Stan Horton,PERSON,['713/345-7437'],[165]
+25,Shirley Cox,PERSON,['51721'],[166]
+26,Anne Labbe,PERSON,['5-7809'],[170]
+27,Jim Pratico,PERSON,['6249'],[188]
+28,John Charlton,PERSON,['6047'],[188]
+29,Bob Shults,PERSON,"['30397', '31861', '(713) 853-0397']","[213, 213, 684]"
+30,Dave Forster,PERSON,['31861'],[215]
+31,Deborah Korkmas,PERSON,['94-3371710'],[227]
+32,Janice Priddy,PERSON,"['(713) 237-5346', 'x37839']","[227, 227]"
+33,Dave Matthews,PERSON,"['713-853-5933', '713-516-8820']","[244, 244]"
+34,Sandy   Attatched,PERSON,['713-853-5933'],[245]
+35,Zooey,PERSON,"['713-432-7163', '713-516-8820']","[245, 245]"
+36,Bryan Gottfredson,PERSON,['713-345-2430'],[246]
+37,Kristin Walsh,PERSON,"['5-4014', '3-9510']","[268, 268]"
+38,Joseph Brophy,PERSON,['408.390.5291'],[297]
+39,Karla Dobbs,PERSON,['713) 345-7880'],[325]
+40,Michael S.,PERSON,"['(503)464-7790', '(503)807-7862']","[333, 333]"
+41,Ted Bland,PERSON,"['3-5275', '35275', '36671']","[344, 1211, 1211]"
+42,Kathy Schultea,PERSON,['x33841'],[344]
+43,Kimberly Nelson,PERSON,['x33580'],[371]
+44,Veronica Espinoza,PERSON,['x6-6002'],[377]
+45,Jason R. Williams,PERSON,['x5-3923'],[377]
+46,Darren Vanek,PERSON,['x3-1436'],[377]
+47,Lana Moore,PERSON,['(713) 856-6199'],[395]
+48,Leesa,PERSON,['3-6030'],[404]
+49,Stephanie E. Taylor,PERSON,['5-7928'],[406]
+50,DF,PERSON,['401-934-1433'],[419]
+51,Steve,PERSON,"['(661) 823-6467', '(713) 460-2291']","[436, 1136]"
+52,Sean Riordan,PERSON,['X5-4298'],[448]
+53,Regina,PERSON,['3-9573'],[517]
+54,Sami,PERSON,"['011-55-11-9233-7436', '011-55-11-3062-5608']","[542, 542]"
+55,Suzanne Voo,PERSON,['+65 322 2755'],[543]
+56,Emilio Pinto,PERSON,['011-551-1-2322100'],[545]
+57,Dennis Alters,PERSON,['(713) 853 6586'],[556]
+58,Mike Miller,PERSON,"['x36556', '(713) 628-5958']","[559, 559]"
+59,Patty Snyder,PERSON,['315-460-3344'],[566]
+60,Zulie Flores,PERSON,['3-3908'],[572]
+61,Kevin Burns,PERSON,['853-0421'],[575]
+62,Susan Lindberg,PERSON,['x30596'],[578]
+63,Stan,PERSON,['713/853-6177'],[613]
+64,Kathy,PERSON,['800'],[631]
+65,Tana,PERSON,['(53923)'],[634]
+66,Jay Williams,PERSON,['31803'],[642]
+67,Keegan,PERSON,['1-646-698-0601'],[643]
+68,Tom Redd,PERSON,['903-983-1551'],[645]
+69,Dovie Keprta,PERSON,"['(713) 853-3399', '(713)  345-8664']","[668, 668]"
+70,Tana Jones,PERSON,"['(713)  853-3399', '(713) 853-6121']","[672, 672]"
+71,Tana L. Jones,PERSON,"['(713) 646-3490', '(713) 853-3399']","[675, 675]"
+72,Michael Bridges,PERSON,"['(713) 646-3490', '(713) 853-3399']","[684, 684]"
+73,Mike,PERSON,['(713) 345-4079'],[684]
+74,Paul Finken,PERSON,['(713) 646-3490'],[688]
+75,Mark  Greenberg,PERSON,"['(713) 853-3399', '(713) 345-8897']","[688, 688]"
+76,Mike Bridges,PERSON,['(713) 646-3490'],[691]
+77,Mark Greenberg,PERSON,"['(713) 853-3399', '(713) 345-8897', '(713)  345-8897', '(713)  853-3399']","[691, 691, 696, 702]"
+78,Daniel Diamond,PERSON,['(713) 646-3490'],[693]
+79,Dan Diamond,PERSON,['(713) 646-3490'],[702]
+80,Kaminsky,PERSON,['(281) 480-4894'],[710]
+81,Zulie,PERSON,['853-3908'],[741]
+82,Kathy Cash,PERSON,['202/383-2274'],[753]
+83,George Lucas,PERSON,"['713-52STAGE', '713-639-7515']","[760, 760]"
+84,Kathie Grabstald,PERSON,['3-9610'],[764]
+85,Stans,PERSON,"['713-228-6601', '713-467-6754']","[774, 774]"
+86,Jenny Rub,PERSON,"['713-851-5456', '281-463-4421', '877-345-3812']","[782, 782, 782]"
+87,La Donna,PERSON,['x34379'],[796]
+88,Sandra,PERSON,"['1-800-961-3030 ext 371', '713-953-6464']","[797, 797]"
+89,Natasha Ewell,PERSON,['(202) 530-2208'],[841]
+90,Richard Hensch,PERSON,"['x36300', 'x35522', '35522']","[864, 864, 1220]"
+91,Kendall,PERSON,['713-440-4800'],[866]
+92,Trey Meerbott,PERSON,['(713) 853-7003'],[871]
+93,Hope Vargas,PERSON,['3-5280'],[891]
+94,Georganne Hodges,PERSON,['3-0430'],[891]
+95,Paul,PERSON,"['315', '760-510-8090']","[901, 1134]"
+96,John Llodra,PERSON,['978 449 9936.\nMy extension is 57566'],[943]
+97,Kara Boudreau,PERSON,['30570'],[965]
+98,Linda Roberts,PERSON,['(713) 345-4972'],[978]
+99,Tom,PERSON,['1-800-332-7979'],[986]
+100,John Graziano,PERSON,"['(212)', '686-6808']","[1002, 1002]"
+101,Tracy Ramsey,PERSON,"['1-800-297-3276', 'March 1, 2002', '(713) 853-6457']","[1005, 1005, 1005]"
+102,Vince Strohmeyer,PERSON,['713.853.6701'],[1007]
+103,Jennifer Burns,PERSON,['39440'],[1020]
+104,Cathy Phillips,PERSON,['36898'],[1039]
+105,Norman,PERSON,['x36976'],[1051]
+106,Christina Valdez,PERSON,['x39106'],[1052]
+107,Lisa Kinsey,PERSON,['x37628'],[1058]
+108,Karen,PERSON,['x54667'],[1076]
+109,Marlene Hilliard,PERSON,['x39167'],[1085]
+110,Bridgette Anderson,PERSON,['x33818'],[1085]
+111,Nichole,PERSON,['223-4073'],[1098]
+112,Chris,PERSON,"['713-853-4887', '37340']","[1098, 1651]"
+113,Gerald,PERSON,"['(888)476-3752', '302 521', '649 284']","[1103, 1103, 1103]"
+114,Michael S. White,PERSON,['(713) 853-9001'],[1106]
+115,Martin Katz,PERSON,"['extension', '59322', '37060']","[1171, 1171, 1171]"
+116,Kay,PERSON,['(403-508-3184'],[1180]
+117,Ana Schick,PERSON,['713-626-9726'],[1183]
+118,Terry Bosien,PERSON,"['35230', '713/853-5230']","[1211, 1574]"
+119,Kim,PERSON,['x30681'],[1217]
+120,Lorraine,PERSON,['(402) 330-3860.  gh'],[1240]
+121,Robin,PERSON,['x57478'],[1263]
+122,charlie  costenbader,PERSON,['281-419-4831'],[1275]
+123,Ben,PERSON,['(713) 646-8863'],[1278]
+124,Mechelle Atwood,PERSON,['5-4554'],[1294]
+125,Joy,PERSON,['713-660-8764'],[1297]
+126,Leslie Hansen,PERSON,['36121.\nElizabeth 36349'],[1324]
+127,Margaret Doucette,PERSON,['(713) 345-7892'],[1325]
+128,Janette Elbertson,PERSON,['(713) 853-7906'],[1325]
+129,Brandi,PERSON,['(970) 461-7277'],[1357]
+130,Theresa,PERSON,['(602) 352-2552'],[1357]
+131,John Dake,PERSON,['807-7861'],[1357]
+132,Julie Kearney,PERSON,['503) 464-7404'],[1360]
+133,Grace Rodriguez,PERSON,['503) 464-8321'],[1360]
+134,Clinton Hurt,PERSON,['3-9610'],[0]
+135,Savita,PERSON,['31787'],[1412]
+136,Drew Fossum,PERSON,['x30596'],[1423]
+137,John Buchanan,PERSON,['x30596'],[1433]
+138,Sheila,PERSON,['713-646-2196'],[1453]
+139,Carson,PERSON,['281-435-3672'],[1460]
+140,Rob Manders,PERSON,['212-469-2034'],[1464]
+141,Elaine Schield,PERSON,['x35476'],[1469]
+142,Rene,PERSON,['512-327-6122'],[1472]
+143,Chuck O'Brien,PERSON,['203/978-6988'],[1484]
+144,Mark,PERSON,"['011-44-20-7783-6552', '(713) 646-6106']","[1484, 1807]"
+145,Sara  Chuck,PERSON,['011-44-20-7783-6566'],[1484]
+146,John Miller,PERSON,['713/260-6541'],[1505]
+147,Jeff  Fuller,PERSON,['(425-451-9123'],[1544]
+148,Cheryl Nelson,PERSON,['X54693'],[1546]
+149,Hunter,PERSON,['x34212'],[1571]
+150,Richard Pinion,PERSON,['37339'],[1573]
+151,Blake Blackwell,PERSON,"['281 265 7721', '713 412 0592']","[1604, 1604]"
+152,Amelia Alder,PERSON,['3AC3120'],[1610]
+153,Cheryl Kuehl,PERSON,['x3-9804'],[1621]
+154,Matt,PERSON,['770-738-2101'],[1633]
+155,Carol,PERSON,['33989'],[1683]
+156,Chris McDonald,PERSON,['(678) 579-3298'],[1699]
+157,Julie K,PERSON,['x7404'],[1703]
+158,Gov.,PERSON,"['5-4014', '3-9510']","[1, 1]"
+159,Jeff,PERSON,['503-464-3810'],[1706]
+160,Claudia Clark,PERSON,['x39281'],[1746]
+161,Karen O'Day,PERSON,['x54135'],[1746]
+162,Deb,PERSON,['212-838-5700'],[1750]
+163,Julie,PERSON,['35539'],[1751]
+164,Jim Derrick,PERSON,['713-853-5550'],[1767]
+165,"TYCHOLIZ, BARRY L",PERSON,['x34777'],[1776]
+166,Mark Whitt,PERSON,['(303-575-6478'],[1781]
+167,Dan Bump,PERSON,['(720-946-3632'],[1781]
+168,Peter,PERSON,['(6708).\nMP'],[1782]
+169,Heidi DuBose,PERSON,['(303) 575-6478'],[1787]
+170,Ron Pisa,PERSON,['650-634-4334'],[1798]
+171,Jack McAdoo,PERSON,['x3-6249'],[1805]
+172,Lillian R. Bailey,PERSON,"['713/853-3577', '713/646-8007']","[1820, 1820]"
+173,Amy Oberg,PERSON,"['3-1941', '3-9390']","[1846, 1846]"
+174,Kevin Meredith,PERSON,"['3-9555', '3-7533', '713.584.4444']","[1860, 1860, 1860]"
+175,Jason Wolfe,PERSON,['713 960-9800'],[1863]
+176,Molly Sumrow,PERSON,['3-4249'],[1870]
+177,Carrie Slagle,PERSON,['3-9810'],[1870]
+178,Master,PERSON,"['330853910', '330853913', 'no.430853910', '+874 330853910', '+874 330853913']","[1874, 1877, 1877, 1886, 1886]"
+179,Jim Fernie,PERSON,"['330853913', 'no.330853915', 'no.430853910']","[1874, 1874, 1874]"
+180,"Oe.
+Hansen",PERSON,"['no.330853915', '+584 330853915', '+584 430853910']","[1877, 1886, 1886]"
+181,Knut Bentzr,PERSON,"['+873 330853910', '+873 330853913', '+583 330853915', '+583 430853910']","[1879, 1879, 1879, 1879]"
+182,adr,PERSON,['(713) 822-7040'],[1885]

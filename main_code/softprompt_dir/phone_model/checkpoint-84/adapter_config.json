@@ -1,0 +1,17 @@
+{
+  "auto_mapping": null,
+  "base_model_name_or_path": "../results_llama2_7b_whole_enron/checkpoint-269696",
+  "inference_mode": true,
+  "num_attention_heads": 32,
+  "num_layers": 32,
+  "num_transformer_submodules": 1,
+  "num_virtual_tokens": 20,
+  "peft_type": "PROMPT_TUNING",
+  "prompt_tuning_init": "TEXT",
+  "prompt_tuning_init_text": "phone",
+  "revision": null,
+  "task_type": "CAUSAL_LM",
+  "token_dim": 4096,
+  "tokenizer_kwargs": null,
+  "tokenizer_name_or_path": "meta-llama/Llama-2-7b-hf"
+}

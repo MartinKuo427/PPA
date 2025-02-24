@@ -1,0 +1,32 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "NAME": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "CATEGORY": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "TEMPLATE": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "TEMPLATE_TYPE": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "TARGET": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "TARGET_PII_TYPE": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

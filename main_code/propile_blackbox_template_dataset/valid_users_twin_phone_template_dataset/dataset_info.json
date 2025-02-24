@@ -1,0 +1,38 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "NAME": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "CATEGORY": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "TEMPLATE": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "TEMPLATE_TYPE": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "TARGET": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "TARGET_PII_TYPE": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

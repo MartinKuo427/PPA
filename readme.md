@@ -1,5 +1,7 @@
 # Proactive Privacy Amnesia for Large Language Models: Safeguarding PII with Negligible Impact on Model Utility
 
+This repository contains the official implementation of "Proactive Privacy Amnesia for Large Language Models: Safeguarding PII with Negligible Impact on Model Utility" paper, accepted by ICLR2025.
+
 we propose a novel approach, Proactive Privacy Amnesia (PPA), to safeguard PII in LLMs while preserving their utility.
 
 Paper Link: [📖[Paper Link](https://openreview.net/forum?id=io8uRPYktn&nesting=2&sort=date-desc)]
